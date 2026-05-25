@@ -7,11 +7,16 @@ Une petite application développée avec PowerShell permettant de faire des copi
 
 ## Chemin << Source >> non défini
 
-<img width="484" height="536" alt="image" src="https://github.com/user-attachments/assets/a45a95f5-9c74-47e0-940f-1f5a0fbd76a9" />
+<img width="481" height="535" alt="image" src="https://github.com/user-attachments/assets/b5b6b433-50c9-45ec-9fd3-2e5058e08ab6" />
 
 ## Chemin << Destination >> non défini
 
-<img width="483" height="539" alt="image" src="https://github.com/user-attachments/assets/4cf80824-6566-44f6-bc6e-0f04aed7b7d6" />
+<img width="480" height="535" alt="image" src="https://github.com/user-attachments/assets/6412645e-8002-43bc-ac72-73252e5f1fb0" />
+
+## LogBox : affichage des logs
+<img width="557" height="613" alt="image" src="https://github.com/user-attachments/assets/b144bc57-e33d-4f63-a2db-52adfe7be0b2" />
+
+
 
 
 
